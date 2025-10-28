@@ -70,8 +70,8 @@ div {
   margin-top: 10px;
 }
 .cuadro5 {
-  width: 1820px;
-  height: 400px;
+  width: 1780px;
+  height: 300px;
   border-color: rgb(0, 0, 0);
   background-color: rgb(182, 142, 113);
   border-style: solid;
@@ -84,13 +84,13 @@ div {
   color: black;
   background-color: rgb(182, 142, 113);
   border-color: rgb(182, 142, 113);
-  font-size: 40px;
+  font-size: 30px;
 }
 .cuadro4 p {
   color: black;
   background-color: rgb(182, 142, 113);
   border-color: rgb(182, 142, 113);
-  font-size: 40px;
+  font-size: 30px;
 }
 .cuadro3 h2 {
   color: black;
